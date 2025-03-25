@@ -66,7 +66,7 @@ Este projeto implementa uma **API REST** para o gerenciamento de pedidos, utiliz
   ```
 
   ![alt text](image.png)
-  ![alt text](image-1.png)
+!   [alt text](image-1.png)
 
 ### 📋 **Listar Todos os Pedidos**
 - **URL:** `GET /pedidos`
@@ -99,13 +99,13 @@ Este projeto implementa uma **API REST** para o gerenciamento de pedidos, utiliz
   }
   ```
 
-![alt text](image-5.png)
+![alt text](image-4.png)
 
 ### ❌ **Remover Pedido**
 - **URL:** `DELETE /pedidos/{id}`
 - **Exemplo:** `DELETE /pedidos/1`
 
-![alt text](image-4.png)
+![alt text](image-5.png)
 
 ---
 
